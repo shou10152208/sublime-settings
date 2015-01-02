@@ -1,0 +1,6 @@
+{
+    "sublimelinter_executable_map":
+    {
+        "groovy": "/usr/local/Cellar/groovy/2.2.2/bin/groovy"
+    }
+}

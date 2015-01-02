@@ -1,0 +1,5 @@
+{
+	"cmd": ["groovy","$file"],
+	"path":"/usr/local/bin:/usr/bin:/bin",
+	"selector":"source.groovy"
+}

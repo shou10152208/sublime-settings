@@ -1,0 +1,8 @@
+{
+		// Encoding for new file, empty means using sublime text's "default_encoding" setting
+	"default_encoding_on_create" : "UTF-8",
+
+  // Convert when previewing file: true or false
+  "preview_action" : false
+
+}
