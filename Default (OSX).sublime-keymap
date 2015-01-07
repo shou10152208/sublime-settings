@@ -38,8 +38,9 @@
   { "keys": ["super+ctrl+x"], "command": "list_rails_fixtures" },
   { "keys": ["super+ctrl+t"], "command": "list_rails_tests" },
   { "keys": ["super+ctrl+i"], "command": "list_rails_javascripts" },
-  { "keys": ["super+ctrl+y"], "command": "list_rails_stylesheets" },
+  { "keys": ["super+ctrl+s"], "command": "list_rails_stylesheets" },
 
   // AdvancedNewFile : https://github.com/skuroda/Sublime-AdvancedNewFile
-  { "keys": ["super+shift+n"], "command": "advanced_new_file"}
+  { "keys": ["super+shift+n"], "command": "advanced_new_file"},
+  { "keys": ["super+alt+r"], "command": "reindent" , "args": {"single_line": false}}
 ]
